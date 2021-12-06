@@ -1,0 +1,90 @@
+.bg-2{
+    background-image: url(asset/IMG_3191\ crop.jpg);
+   color: azure;
+   background-size: cover;
+}
+
+.bg-1{
+    background-image: url(asset/IMG_1695.MOV);
+   color: azure;
+   background-size: cover;
+  
+}
+
+.bg-3{
+    background-image: url(asset/IMG_3197.jpeg);
+   color: azure;
+   background-size: cover;
+}
+
+.bg-4{
+    background-image: url(asset/IMG_2538.jpeg);
+   color: azure;
+    background-size: cover;
+}
+
+.bg-5{
+    background-image: url(asset/IMG_3778.jpg);
+   color: azure;
+    background-size: cover;
+}
+
+.bg-6{
+    background-image: url(asset/IMG_3194.jpeg);
+   color: azure;
+    background-size: cover;
+}
+
+.bg-7{
+    background-image: url(asset/IMG_6776.jpg);
+   color: azure;
+    background-size: cover;
+}
+
+.bg-8{
+    background-image: url(asset/IMG_3251.jpg);
+   color: azure;
+    background-size: cover;
+}
+
+.bg-9{
+    background-image: url(asset/IMG_32231.jpg);
+   color: azure;
+    background-size: cover;
+}
+
+.bg-10{
+    background-image: url(asset/IMG_2861.MOV);
+   color: azure;
+    background-size: cover;
+}
+
+.bg-11{
+    background-image: url(asset/IMG_3241.jpg);
+   color: azure;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+    font-family:unset
+}
+
+a:hover{
+    text-decoration: underline;
+    color: gold;
+    
+}
+
+body{
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+.container{
+margin-left: 4vw;
+margin-top: 4vw;
+
+}
